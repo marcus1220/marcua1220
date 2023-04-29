@@ -27,3 +27,11 @@
 <div align="center">
 <h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="20"> Marcus's Githud stats</h2>
 </div>
+
+<br/>
+<p align="center">
+    <a href="https://github.com/marcus1220">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcus1220&&show_icons=true&theme=radical"/>
+    </a>
+</p>
+<br/>
