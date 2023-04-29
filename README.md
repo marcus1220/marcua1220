@@ -10,4 +10,4 @@
 <br/>
 <br/>
 
-<h2 align="center">Langauges and Technologies<img src=""https://media.giphy.com/media/WUlplcMpOcEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Langauges and Technologies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
