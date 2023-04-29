@@ -53,3 +53,14 @@
 
 <div align="center">
 <a href="https://github.com/hangman"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=hangman&theme=radical" /></a>
+
+<a href="https://github.com/todo-list"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=todo-list&theme=radical" /></a>
+
+<a href="https://github.com/caesar-cipher"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=caesar-cipher&theme=radical" /></a>
+
+<a href="https://github.com/AI-Flappy-Bird"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=AI-Flappy-Bird&theme=radical" /></a>
+
+<a href="https://github.com/stop-data-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=stop-data-analysis&theme=radical" /></a>
+
+<a href="https://github.com/great_evaluator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=great_evaluator&theme=radical" /></a>
+</div>
