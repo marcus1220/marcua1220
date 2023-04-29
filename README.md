@@ -39,3 +39,9 @@
 <p align="center">
 <a href="https://github.com/marcus1220">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcus1220&theme=radical">
+
+<p align="center">
+<a href="https://github.com/marcus1220">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus1220&theme=radical&layout=compact&hide=c">
+</a>
+</p>
