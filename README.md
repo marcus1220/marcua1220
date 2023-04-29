@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-<h2> align="center">Some Recent Projects</h2>
+<h2 align="center">Some Recent Projects</h2>
 
 <div align="center">
-<a href="https://github.com/FRC-6390/FRC-Season-2022"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&theme=radical" /></a>
+<a href="https://github.com/hangman"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=hangman&theme=radical" /></a>
