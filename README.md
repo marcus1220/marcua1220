@@ -64,3 +64,22 @@
 
 <a href="https://github.com/great_evaluator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1220&repo=great_evaluator&theme=radical" /></a>
 </div>
+
+
+
+<br/>
+<br/>
+
+<h3 align="left">Fun Facts:</h3>
+<ul>
+
+  <li align="left"> I like playing sports such as golf, badminton, snowboard. </li>
+
+  <li align="left"> I am also like doing DIY, auto repair as well. </li>
+
+<ul/>
+
+
+<br/>
+
+<br />
