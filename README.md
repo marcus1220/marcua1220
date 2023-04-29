@@ -25,5 +25,5 @@
 <br/>
 
 <div align="center">
-<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="20"> Marcus's githud stats</h2>
+<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="20"> Marcus's Githud stats</h2>
 </div>
