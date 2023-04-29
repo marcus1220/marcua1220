@@ -21,3 +21,9 @@
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="react" width="40" height="40">
 </p>
+<br/>
+<br/>
+
+<div align="center">
+<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="20"> Marcus's githud stats</h2>
+</div>
