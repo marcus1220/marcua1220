@@ -38,4 +38,4 @@
 
 <p align="center">
 <a href="https://github.com/marcus1220">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcus1220&theme=radical>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcus1220&theme=radical">
